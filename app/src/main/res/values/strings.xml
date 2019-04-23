@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VideoAPP</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Video</string>
+    <string name="tab_text_3">Youtube</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="buat_folder_baru">Buat Folder Baru</string>
+    <string name="tambah_vidio">Buat Vidio</string>
+</resources>
